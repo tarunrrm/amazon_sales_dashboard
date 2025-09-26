@@ -1,6 +1,6 @@
 
 # 📊Amazon Tableau Dashboard Project – Comprehensive Sales Analysis
-This project presents an interactive sales dashboard developed using Tableau, inspired by a detailed tutorial by Chandoo. The dashboard offers a holistic view of sales performance, enabling stakeholders to derive actionable insights through dynamic visualizations and key performance indicators (KPIs).
+This project presents an interactive sales dashboard developed using Tableau. The dashboard offers a holistic view of sales performance, enabling stakeholders to derive actionable insights through dynamic visualizations and key performance indicators (KPIs).
 
 # ✅ What I Learned
 Through this project, I enhanced my skills in:
