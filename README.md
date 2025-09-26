@@ -43,4 +43,4 @@ The dataset utilized in this project encompasses:
 **Time Dimension:** Date-related data to facilitate time-based analyses.
 
 
-![alt text](<Amazon item sales dashboard.png>)
+![alt text](<amazon sales dashboard/Amazon item sales dashboard.png>)
